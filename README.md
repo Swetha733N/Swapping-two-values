@@ -28,7 +28,7 @@ num1=num2
 num2=temp
 print("Swapped values are:",num1,num2)
 ```
-
+## OUTPUT:
 ![py1](https://user-images.githubusercontent.com/122199934/224740229-80bb08b3-c373-4b13-8c17-b9022d154b71.png)
 
 
